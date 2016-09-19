@@ -1,0 +1,7 @@
+body {
+  margin: 0; }
+  body h1 {
+    margin: 10px;
+    color: #dca;
+    -webkit-transition: .2s color;
+    transition: .2s color; }
